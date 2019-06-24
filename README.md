@@ -1,2 +1,1 @@
-# DC_Intro
-Digital Crafts Introduction
+permalink: /index.html
